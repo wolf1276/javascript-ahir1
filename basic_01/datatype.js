@@ -8,3 +8,5 @@ console.log(temp)
 console.log(typeof temp)
 let tempu = Number(temp);
 console.log(tempu)
+console.log(1+1)
+console.log(3+3)
