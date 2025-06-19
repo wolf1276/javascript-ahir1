@@ -1,9 +1,39 @@
 body {
-  background-color: #1a1a;
+  background-color: rgba(10, 204, 10, 0.493);
   margin: 0;
   padding: 0;
   height: 100vh;
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
+}
+.card {
+  background-color: rgb(30, 210, 138);
+  border-radius: 8px;
+  padding: 30px;
+  width: 300px;
+  border-color: darkgreen;
+}
+h2 {
+  color: darkgreen;
+  text-align: center;
+  margin-bottom: 40px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border-color: rgb(174, 8, 8);
+  background-color: greenyellow;
+}
+button {
+  background-color: rgb(244, 209, 12);
+  border-radius: 20px;
+  padding: 5px;
+  border-color: mediumspringgreen;
+  margin-top: 10px;
 }
