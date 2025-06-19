@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+p {
+  font-size: medium;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding: 5px;
+}
+.highlight {
+  color: green;
+}
+#header {
+  color: blue;
+}
+input[type="text"] {
+  border: 2px solid #1a1a1a;
+  margin-right: 5px;
+  display: flex;
+}
+article p {
+  color: green;
+}
+a:hover {
+  background-color: aquamarine;
+  color: black;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+h1,
+h2,
+h3 {
+  color: goldenrod;
+}
