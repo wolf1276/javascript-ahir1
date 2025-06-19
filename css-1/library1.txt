@@ -1,0 +1,7 @@
+Sources for css
+https://getbootstrap.com/
+https://materializecss.com/
+https://tailwindcss.com/
+https://ui.shadcn.com/
+https://ui.aceternity.com/
+https://magicui.design/
