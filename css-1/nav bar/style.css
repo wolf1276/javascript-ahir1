@@ -55,3 +55,50 @@ body {
   border: solid green 2px;
   border-radius: 5px;
 }
+.var2 {
+  padding: 0;
+  margin: 0%;
+  background-color: rgb(9, 255, 0);
+  width: 20vh;
+}
+.var2 ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+.var2 li {
+  margin-bottom: 12px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.var2 a {
+  text-decoration: none;
+  color: green;
+}
+.var2 a:hover {
+  background-color: rgb(12, 235, 161);
+  border: 2px solid darkgreen;
+  border-radius: 5px;
+}
+.var2 button {
+  background-color: rgb(200, 255, 0);
+  border: 0px;
+  border-radius: 5px;
+  margin-left: 40px;
+}
+.var2 button:hover {
+  background-color: lime;
+}
+.var3 {
+  background-color: crimson;
+  width: 50vh;
+}
+.var3 ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.var3 a {
+  text-decoration: none;
+}
