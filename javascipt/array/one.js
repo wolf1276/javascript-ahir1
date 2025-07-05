@@ -19,7 +19,10 @@ console.log(cityy);
 cityy.pop();
 console.log(cityy);
 
-//coping one array to another
+//coping one array to another which chnages according to main
+//softcopy
 
 city1 = cityy;
 console.log(city1);
+
+//softcopy
