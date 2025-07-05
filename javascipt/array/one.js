@@ -26,3 +26,4 @@ city1 = cityy;
 console.log(city1);
 
 //softcopy
+city2 = city.slice();
